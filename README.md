@@ -23,7 +23,7 @@
 
 ## 📊 Statistics
 
-[![Matthias Cobbaut's github stats]()](https://github.com/MatCob)
+[![Matthias Cobbaut's github stats](https://github-readme-stats.vercel.app/api?username=MatCob&show_icons=true&count_private=true)](https://github.com/MatCob)
 
 ## 🎓 Certificates & Trainings
 
