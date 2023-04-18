@@ -1,0 +1,16 @@
+name: Update badges
+
+on:
+  workflow_dispatch: # run manually
+jobs:
+  update-badges:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2.3.0
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: MatCob/MatCob
+          CREDLY_USER: ${{ secrets.CREDLY_USER }}
+          CREDLY_SORT: POPULAR
