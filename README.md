@@ -14,8 +14,8 @@
 #### ⭐ Latest repositories I starred
 
 - [SAP-samples/btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - This github repository contains the sample code and exercises of btp-ai-sustainability-bootcamp, which showcases how to build Intelligence and Sustainability into Your Solutions on SAP Business Technology Platform with SAP AI Core and SAP Analytics Cloud for Planning.  - 50 stars
-- [SAP/cloud-sdk-js](https://github.com/SAP/cloud-sdk-js) - Use the SAP Cloud SDK for JavaScript / TypeScript to reduce development effort when building applications on SAP Business Technology Platform that communicate with SAP solutions and services such as SAP S/4HANA Cloud, SAP SuccessFactors, and many others.  - 177 stars
-- [UI5/openui5](https://github.com/UI5/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. - 3215 stars
+- [SAP/cloud-sdk-js](https://github.com/SAP/cloud-sdk-js) - Use the SAP Cloud SDK for JavaScript / TypeScript to reduce development effort when building applications on SAP Business Technology Platform that communicate with SAP solutions and services such as SAP S/4HANA Cloud, SAP SuccessFactors, and many others.  - 178 stars
+- [UI5/openui5](https://github.com/UI5/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. - 3216 stars
 
 #### 👥 My latest followers
 
