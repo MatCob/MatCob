@@ -13,6 +13,7 @@
 
 #### ⭐ Latest repositories I starred
 
+- [SAP/cloud-foundry-tools-api](https://github.com/SAP/cloud-foundry-tools-api) - This package provides a set of APIs for easy application development with Cloud Foundry. You can use these APIs to manage apps, service instances, orgs, spaces, and users in your environment.  - 13 stars
 - [geert-janklaps/recap-2024-getting-started-with-typescript-codejam](https://github.com/geert-janklaps/recap-2024-getting-started-with-typescript-codejam) - re&gt;≡CAP 2024 - Getting Started with TypeScript CodeJam - 5 stars
 - [SAP-samples/btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - This github repository contains the sample code and exercises of btp-ai-sustainability-bootcamp, which showcases how to build Intelligence and Sustainability into Your Solutions on SAP Business Technology Platform with SAP AI Core and SAP Analytics Cloud for Planning.  - 52 stars
 - [SAP/cloud-sdk-js](https://github.com/SAP/cloud-sdk-js) - Use the SAP Cloud SDK for JavaScript / TypeScript to reduce development effort when building applications on SAP Business Technology Platform that communicate with SAP solutions and services such as SAP S/4HANA Cloud, SAP SuccessFactors, and many others.  - 200 stars
